@@ -1,6 +1,5 @@
 package samplePackage;
 
-
 import java.util.Scanner;
 
 public class HelloWorldExample {
@@ -16,3 +15,5 @@ public class HelloWorldExample {
         sc.close();
     }
 }
+
+//first change
